@@ -19,7 +19,8 @@ DataBase: MongoDB | Firebase <br/>
   will update soon.
   
     ### Dependencies:
-      you have to use appropriate .env file. (sample is given.)
+      you have to use appropriate .env file. (sample is given.) <br/>
+      you may have to install appropriate node_modules.
   
   ### Issues:
   some features are not implemented at this moment. <br/>
