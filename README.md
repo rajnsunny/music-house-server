@@ -2,7 +2,7 @@
 
 Music House , a Full stack music app where we can use for listening music, can add to favourite and many more . <br/>
 for a admin, we can manage users and also change the role of the user, manage all songs , manage all artists and manage all albums. <br/>
-Live Link : https://music-house-app.netlify.app/ <br/>
+Live Link : [EDN MUSIC](https://artysium-edn.netlify.app/) <br/>
 FrontEnd : https://github.com/rajnsunny/music-house-client 
 
 ## Tech Stack 
