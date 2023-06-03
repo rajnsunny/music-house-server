@@ -12,7 +12,7 @@ BackEnd: NodeJs | Express <br/>
 DataBase: MongoDB | Firebase <br/>
 ### Host: 
   FrontEnd: Netlify <br/>
-  BackEnd: Heroku <br/>
+  BackEnd: Render <br/>
   
  
  ## Local Setup
